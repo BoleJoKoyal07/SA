@@ -1,0 +1,18 @@
+Design patterns
+Singleton
+https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
+
+Abstract Factory
+https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
+
+Facade
+https://www.tutorialspoint.com/design_pattern/facade_pattern.htm
+
+Composite
+https://www.tutorialspoint.com/design_pattern/composite_pattern.htm
+
+Observer
+https://www.tutorialspoint.com/design_pattern/observer_pattern.htm
+
+Strategy
+https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm
