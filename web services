@@ -1,0 +1,19 @@
+*****web services steps:
+->create dynamic web project
+->start server
+->create class
+->enter code
+
+package add1;
+public class Add_1 {
+	public int add(int a,int b) {
+		return(a+b);
+	}
+}
+
+->create web service
+->test client start server
+->next and launch
+->click add
+->enter inputs
+->go
